@@ -50,37 +50,37 @@ pnpm add -g pnpm
 
 pnpm install -g
 
-npm install -g npm
+pnpm install -g npm
 
-npm install -g png-js
+pnpm install -g png-js
 
-npm install -g date-fns
+pnpm install -g date-fns
 
-npm install -g axios
+pnpm install -g axios
 
-npm install -g crypto-js
+pnpm install -g crypto-js
 
-npm install -g ts-md5
+pnpm install -g ts-md5
 
-npm install -g tslib
+pnpm install -g tslib
 
-npm install -g @types/node
+pnpm install -g @types/node
 
-npm install -g requests
+pnpm install -g requests
 
-npm install -g tough-cookie
+pnpm install -g tough-cookie
 
-npm install -g jsdom
+pnpm install -g jsdom
 
-npm install -g download
+pnpm install -g download
 
-npm install -g tunnel
+pnpm install -g tunnel
 
-npm install -g fs
+pnpm install -g fs
 
-npm install -g ws
+pnpm install -g ws
 
-npm install -g form-data
+pnpm install -g form-data
 
 pnpm install -g js-base64
 
